@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
         </div>
         
         <h1 className="text-5xl md:text-8xl font-black mb-6 tracking-tighter">
-          Hi, I'm <span className="text-gradient">Sumit</span>
+          Hi, I'm <span className="text-gradient">Sumit Chaurasiya</span>
         </h1>
         
         <div className="text-2xl md:text-4xl font-light text-gray-400 mb-8 h-12">

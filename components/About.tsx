@@ -13,7 +13,7 @@ const About: React.FC = () => {
             <div className="relative aspect-square rounded-2xl overflow-hidden glass">
               {/* REPLACE THIS IMAGE WITH YOUR OWN: /assets/profile.jpg */}
               <img 
-                src="/assets/profile.jpg" 
+                src="assets/profile.jpg" 
                 alt="Sumit Chaurasiya" 
                 className="w-full h-full object-cover filter contrast-125 brightness-90 grayscale hover:grayscale-0 transition-all duration-700"
               />
