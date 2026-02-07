@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: '/portfolio/', // <--- ADD THIS LINE (Match your repo name)
+      base: '/portfolio/', // <--- THIS MUST BE EXACTLY '/portfolio/'
       server: {
         port: 3000,
         host: '0.0.0.0',

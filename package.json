@@ -1,12 +1,13 @@
 {
   "name": "sumit-chaurasiya-portfolio",
+  "homepage": "https://Sumit-Chaurasiya-04.github.io/portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-"scripts": {
+  "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
